@@ -1,2 +1,2 @@
 # Instagarm-follower-tracker
-Tracks follows and unfollows on Instagram using the internet
+Tracks followers and unfollowers on Instagram using the internet
